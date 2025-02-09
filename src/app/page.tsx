@@ -10,7 +10,7 @@ export default async function Home() {
   console.log(text);
   return (
     <div className={styles.page}>
-      Mr Ahmed Khalaf and Mr Alaa Alhafez
+      3dayel Company
       {text}
     </div>
   );
